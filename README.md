@@ -9,11 +9,12 @@ Welcome to my Data Analysis portfolio! Here, you’ll find a selection of projec
     - Power BI Project
         - [Plant Co. Performance Report](https://github.com/jacklau1993/data-analysis-portfolio/tree/5ca45e923d5eb30581ae81c854985dedafebede2/Power%20BI%20Project/Plant%20Co.%20Performance%20Report)
     - Tableau Project
+        - [British Airways Reviews](https://github.com/jacklau1993/data-analysis-portfolio/tree/c45f1a0760fe1284b818ce46541cd782d02fc0f1/Tableau%20Project/British%20Airways%20Review)
     - R Project
 - [Contact](#contact)
 
 ## About
-I am Jack Lau, a passionate data professional with a strong background in data analysis, visualization, and business intelligence. This portfolio showcases projects that demonstrate my expertise in tools like Power BI, SQL, and Tableau, highlighting my ability to transform complex datasets into actionable insights. Whether it's creating dashboards, conducting in-depth analyses, or automating reporting processes, my work focuses on driving data-informed decision-making and optimizing performance. Thank you for visiting, and I hope you find my projects insightful!
+I am Jack Lau, a passionate data professional with a strong background in data analysis, visualization, and business intelligence. This portfolio showcases projects that demonstrate my expertise in tools like Power BI, SQL, Tableau, and R, highlighting my ability to transform complex datasets into actionable insights. Whether it's creating dashboards, conducting in-depth analyses, or automating reporting processes, my work focuses on driving data-informed decision-making and optimizing performance. Thank you for visiting, and I hope you find my projects insightful!
 
 ## Portfolio Project
 ### SQL Project
@@ -23,6 +24,7 @@ I am Jack Lau, a passionate data professional with a strong background in data a
 [Plant Co. Performance Report](https://github.com/jacklau1993/data-analysis-portfolio/tree/d61671fdc4569e2ffd5e18147129e795f9f43b5f/Power%20BI%20Project/Plant%20Co.%20Performance%20Report)
 
 ### Tableau Project
+[British Airways Reviews](https://github.com/jacklau1993/data-analysis-portfolio/tree/c45f1a0760fe1284b818ce46541cd782d02fc0f1/Tableau%20Project/British%20Airways%20Review)
 
 ### R Project
 
