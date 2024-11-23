@@ -2,9 +2,9 @@
 This is a portfolio project to demonstrate my skills and ability on manipulating sales performance data on a Year to Day basis.
 
 ### Quick Links
-[Dataset]
+[Dataset](https://github.com/jacklau1993/data-analysis-portfolio/blob/9f87d8bbf61389c549eeda0a7ec80cf8b4322a56/Power%20BI%20Project/Plant%20Co.%20Performance%20Report/Plant_DTS.xls)
 
-[Performance Report]
+[Performance Report](https://github.com/jacklau1993/data-analysis-portfolio/blob/9f87d8bbf61389c549eeda0a7ec80cf8b4322a56/Power%20BI%20Project/Plant%20Co.%20Performance%20Report/Portfolio%20project.pbix)
 
 ## Scenario
 I am a Junior BI Analyst at Plant Co., a world-wide plant company. I've been tasked to complete a performance report over the past three years using Power BI. The performanc report should include Gross Profit, Quantity, and Sales.
