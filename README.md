@@ -5,9 +5,9 @@ Welcome to my Data Analysis portfolio! Here, you’ll find a selection of projec
 - [About](About)
 - Portfolio Projects
     - SQL Project
-        - HR Data Analysis
+        - [HR Data Analysis](https://github.com/jacklau1993/data-analysis-portfolio/tree/d61671fdc4569e2ffd5e18147129e795f9f43b5f/SQL%20Project/HR%20Data%20Analysis)
     - Power BI Project
-        - Plant Co. Performance Report
+        - [Plant Co. Performance Report](https://github.com/jacklau1993/data-analysis-portfolio/tree/d61671fdc4569e2ffd5e18147129e795f9f43b5f/Power%20BI%20Project/Plant%20Co.%20Performance%20Report)
     - Tableau Project
     - R Project
 - [Contact](Contact)
@@ -17,10 +17,10 @@ I am Jack Lau, a passionate data professional with a strong background in data a
 
 ## Portfolio Project
 ### SQL Project
-HR Data Analysis
+[HR Data Analysis](https://github.com/jacklau1993/data-analysis-portfolio/tree/d61671fdc4569e2ffd5e18147129e795f9f43b5f/SQL%20Project/HR%20Data%20Analysis)
 
 ### Power BI Project
-Performance Report
+[Plant Co. Performance Report](https://github.com/jacklau1993/data-analysis-portfolio/tree/d61671fdc4569e2ffd5e18147129e795f9f43b5f/Power%20BI%20Project/Plant%20Co.%20Performance%20Report)
 
 ### Tableau Project
 
