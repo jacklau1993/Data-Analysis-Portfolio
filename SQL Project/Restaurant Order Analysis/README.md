@@ -4,9 +4,11 @@ This project focuses on analyzing eCommerce data using SQL to uncover key busine
 
 ## Quick Links
 
-Objective 1 SQL
-Objective 2 SQL
-Objective 3 SQL
+[Objective 1 SQL](SQL Project/Restaurant Order Analysis/Objective 1.sql)
+
+[Objective 2 SQL](SQL Project/Restaurant Order Analysis/Objective 2.sql)
+
+[Objective 3 SQL](SQL Project/Restaurant Order Analysis/Objective 3.sql)
 
 ## Scenario
 
