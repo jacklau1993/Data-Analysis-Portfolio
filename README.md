@@ -7,14 +7,13 @@ Welcome to my Data Analysis portfolio! Here, you’ll find a selection of projec
 - [About](#about)
 - Portfolio Projects
   - SQL Project
-        - [HR Data Analysis](https://github.com/jacklau1993/data-analysis-portfolio/tree/d61671fdc4569e2ffd5e18147129e795f9f43b5f/SQL%20Project/HR%20Data%20Analysis)
-
-        - [Restaurant Order Anaylsis](https://github.com/jacklau1993/data-analysis-portfolio/tree/3767c7b0dc634d758da4266a220af7f0e7cdb98a/SQL%20Project/Restaurant%20Order%20Analysis)
-    - Power BI Project
-      - [Plant Co. Performance Report](https://github.com/jacklau1993/data-analysis-portfolio/tree/5ca45e923d5eb30581ae81c854985dedafebede2/Power%20BI%20Project/Plant%20Co.%20Performance%20Report)
-    - Tableau Project
-      - [British Airways Reviews](https://github.com/jacklau1993/data-analysis-portfolio/tree/c45f1a0760fe1284b818ce46541cd782d02fc0f1/Tableau%20Project/British%20Airways%20Review)
-    - R Project
+    - [HR Data Analysis](https://github.com/jacklau1993/data-analysis-portfolio/tree/d61671fdc4569e2ffd5e18147129e795f9f43b5f/SQL%20Project/HR%20Data%20Analysis)
+    - [Restaurant Order Anaylsis](https://github.com/jacklau1993/data-analysis-portfolio/tree/3767c7b0dc634d758da4266a220af7f0e7cdb98a/SQL%20Project/Restaurant%20Order%20Analysis)
+  - Power BI Project
+    - [Plant Co. Performance Report](https://github.com/jacklau1993/data-analysis-portfolio/tree/5ca45e923d5eb30581ae81c854985dedafebede2/Power%20BI%20Project/Plant%20Co.%20Performance%20Report)
+  - Tableau Project
+    - [British Airways Reviews](https://github.com/jacklau1993/data-analysis-portfolio/tree/c45f1a0760fe1284b818ce46541cd782d02fc0f1/Tableau%20Project/British%20Airways%20Review)
+  - R Project
 - [Contact](#contact)
 
 ## About
